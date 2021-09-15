@@ -1,0 +1,59 @@
+body{
+	background: dodgerblue;
+	background-image: url("img/descarga.png");
+	background-repeat: no-repeat ;
+	background-position: center top;
+}
+form{
+	margin: 0 auto;
+	background: blueviolet;
+	width: 400px;
+	margin-top: 250px ;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+form label{
+	float: left;
+	width: 120px;
+	color: white;
+}
+
+.campos{
+	margin-top: 10px;
+}	
+
+form input{
+	width: 250px;
+	border-radius: 15px;
+}
+
+form textarea{
+	width: 250px;
+	height: 100px;
+	border-radius: 15px;
+}
+
+#botones{
+	margin-top: 20px;
+	margin-left: 120px;
+}
+
+form input[type="submit"], form input[type="reset"]{
+	width: 120px;
+	background-color: skyblue;
+	border-color: skyblue;
+	color: darkslategray;
+	font-weight: 25px;
+}
+
+form input[type="submit"]:hover{
+	background-color: darkslategray;
+	color: skyblue;
+	border-color: darkslategray;
+}
+form input[type="reset"]:hover{
+	background-color: darkslategray;
+	color: skyblue;
+	border-color: darkslategray;
+}
