@@ -5,6 +5,7 @@ body{
 p{
 	color: yellowgreen;
 	background-color: blue;
+
 	margin: 50px;
 	margin-top: 100px;
 	padding: 20px;
@@ -13,6 +14,7 @@ p{
 
 #parrafo1{
 	background-color: blue;
+	color: black;
 	text-align: center;
 	border: 1px solid yellowgreen;
 	border-width: 5px;
