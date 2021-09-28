@@ -1,6 +1,10 @@
+body{
+	background-color: floralwhite;
+}
+
 p{
 	color: yellowgreen;
-	background-color: blueviolet;
+	background-color: blue;
 	margin: 50px;
 	margin-top: 100px;
 	padding: 20px;
